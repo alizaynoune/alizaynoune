@@ -5,7 +5,8 @@
 - 📫 How to reach me: zaynoune.ali@gmail.com
 
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=alzaynou)](https://github.com/alizaynoune)
+<!-- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=alzaynou)](https://github.com/alizaynoune) -->
+[![alzaynou's 42 stats](https://badge42.vercel.app/api/v2/cl2mjk5oo009709i7yb0upwvb/stats?cursusId=21&coalitionId=70)](https://github.com/alzaynoune)
 <div>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alizaynoune&theme=dracula" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alizaynoune&theme=dracula"/>
