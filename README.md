@@ -28,7 +28,7 @@ Results-driven **Full-Stack Developer** with a passion for building innovative s
 -   🚀 Building **Hiraf.ma**, a marketplace connecting Moroccan artisans with clients
 -   🌍 Based in **Kenitra, Morocco**
 -   🌱 Always learning and exploring new technologies in web development
--   🛠️ Experienced in DevOps practices and containerization
+-   🛠️ Experienced in Web Development and DevOps practices
 -   ⚡ Fun fact: I love solving complex algorithmic challenges and automating repetitive tasks
 
 ## 💻 Tech Stack
