@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&random=false&width=500&height=70&lines=Full-Stack+Developer;DevOps+Engineer;Problem+Solver;Cloud+Architect;Web+Application+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=539BF5&center=true&vCenter=true&random=false&width=500&height=70&lines=Full-Stack+Developer;DevOps+Enthusiast;Problem+Solver;Web+Application+Creator" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://ali-zaynoune.me" target="_blank" rel="noopener noreferrer">
